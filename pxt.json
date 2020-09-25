@@ -9,8 +9,7 @@
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts",
+        "ATF.ts",
         "_locales/zh-cn/ATF-strings.json"
     ],
     "testFiles": [
