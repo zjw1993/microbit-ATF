@@ -1,11 +1,10 @@
 {
     "name": "ATF",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "码力工厂",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -16,8 +15,5 @@
         "test.ts"
     ],
     "public": true,
-    "supportedTargets": [
-        "microbit"
-    ],
     "preferredEditor": "blocksprj"
 }
